@@ -1,0 +1,17 @@
+#hdg-selected {
+	display: flex;	
+	width: 50%;
+	justify-content: space-between;
+}
+
+
+.error-space {
+	padding-left: 15px;
+}
+
+#welcome {
+	margin-top: 200px;
+	display:flex;
+	flex-direction: column;
+	align-items: center;	
+}
